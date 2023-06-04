@@ -5,7 +5,8 @@ avatar_filename: profile-photo1.jpeg
 bio: ""
 interests:
   - International Trade
-  - ""
+  - Economic Development
+  - Political Economy
 social:
   - icon: envelope
     icon_pack: fas
