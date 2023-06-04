@@ -58,7 +58,7 @@ sections:
           location: Santiago, Chile
           date_start: '2014'
           date_end: '2017'
-          description: |2-
+          description: |3-
               Responsibilities include:
               
               * Data gathering and analysis
