@@ -71,7 +71,8 @@ sections:
           location: Santiago, Chile
           date_start: '2015'
           date_end: '2017'
-          Responsibilities include:
+           description: |2-
+              Responsibilities include:
               * Consolidated and presented the Latin American Steel Consumption Outlook (SRO) 
     design:
       columns: '2'
