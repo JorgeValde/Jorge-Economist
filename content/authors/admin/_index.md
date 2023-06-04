@@ -24,13 +24,13 @@ education:
     - course: PhD in Economics (candidate)
       institution: Syracuse University
       year: 2024
-    - course: "Masters of Arts in Economics "
+    - course: "MA in Economics "
       institution: Syracuse University
       year: 2019
-    - course: "Master of Arts in International Relations "
+    - course: "MA in International Relations "
       institution: Syracuse University
       year: 2019
-    - course: Bachelor in Economics
+    - course: BS in Economics
       institution: "University of Chile "
       year: 2014
 superuser: true
