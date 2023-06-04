@@ -60,11 +60,8 @@ sections:
           date_end: '2017'
           description: |2-
               Responsibilities include:
-              
               * Data gathering and analysis
-              * Contruction of policy reports 
-            
-              
+              * Contruction of policy reports
         - title: Technical Secretary for the Economics and Institutional Relations Committee (CERIN)
           company: Latin American Steel Association (ALACERO)
           location: Santiago, Chile
