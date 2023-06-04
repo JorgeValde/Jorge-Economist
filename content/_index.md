@@ -62,6 +62,8 @@ sections:
               Responsibilities include:
               Data gathering and analysis
               Contruction of policy reports
+      design:
+        columns: '2'
               
         - title: Technical Secretary for the Economics and Institutional Relations Committee (CERIN)
           company: Latin American Steel Association (ALACERO)
