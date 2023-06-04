@@ -63,8 +63,7 @@ sections:
               
               * Data gathering and analysis
               * Contruction of policy reports 
-              * Liasson between Latin American industrial chambers.
-
+              * Liasson between Latin American industrial chambers
 
         - title: Technical Secretary for the Economics and Institutional Relations Committee (CERIN)
           company: Latin American Steel Association (ALACERO)
