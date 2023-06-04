@@ -1,6 +1,6 @@
 ---
 title: "The Other Side of the Coin: The Effects of Foreign Antidumping Duties on
-  Brazilian Firms and Workers"
+  Brazilian Firms and Workers."
 date: 2023-06-04T21:52:59.123Z
 draft: false
 featured: false
