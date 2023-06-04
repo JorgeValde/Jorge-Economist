@@ -43,6 +43,6 @@ email: javaldeb@syr.edu
 ---
 <!--StartFragment-->
 
-My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focuses on the effects of Antidumping duties on Brazilian firms and their workers. 
+My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focus on the effects of Antidumping duties on Brazilian firms and their workers. 
 
 <!--EndFragment-->
