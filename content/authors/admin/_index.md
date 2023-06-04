@@ -36,9 +36,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Valdebenito
 highlight_name: true
-first_name: Alice
+first_name: Jorge
 email: javaldeb@syr.edu
 ---
 <!--StartFragment-->
