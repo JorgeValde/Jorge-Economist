@@ -1,7 +1,7 @@
 ---
 title: Jorge Valdebenito
 role: PhD in Economics (candidate)
-avatar_filename: profile-photo1.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - International Trade
