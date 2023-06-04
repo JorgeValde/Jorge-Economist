@@ -13,7 +13,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jorge-valdebenito-borquez-33a38b5a/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
