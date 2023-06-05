@@ -3,8 +3,8 @@ title:
 type: landing
 
 sections:
-  - block: About.biography
-    id: About
+  - block: about.biography
+    id: about
     content:
       title: Biography
       username: Jorge Valdebenito
