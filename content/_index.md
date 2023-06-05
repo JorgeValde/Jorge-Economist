@@ -4,8 +4,9 @@
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: experience
+      username: Jorge Valdebenito
+  - block: Experience
+    id: Experience
     content:
       title: Experience
       # Date format for experience
@@ -34,7 +35,13 @@
                 Consolidated and presented the Latin American Steel Consumption Outlook (SRO) 
     design:
       columns: '2'
-  
+      
+  - block: CV
+    id: CV
+    content:
+      title: CV
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: Jorge Valdebenito
   - block: contact
     id: contact
     content:
@@ -44,16 +51,6 @@
        
       # Contact (add or remove contact options as necessary)
       email: javaldeb@syr.edu
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
