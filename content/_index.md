@@ -4,12 +4,13 @@ date: 2023-5-6
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: About.biography
+    id: About
     content:
       title: Biography
       username: Jorge Valdebenito
-   - block: experience
+   - block: Experience
+    id: Experience
     content:
       title: Experience
       date_format: Jan 2006
@@ -27,8 +28,8 @@ sections:
       title: CV
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Jorge Valdebenito
-  - block: contact
-    id: contact
+  - block: Contact
+    id: Contact
     content:
       title: Contact
       subtitle:
