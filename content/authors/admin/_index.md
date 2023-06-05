@@ -1,5 +1,5 @@
 ---
-title: Jorge Valdebenito
+title: "Jorge Valdebenito "
 role: PhD in Economics (candidate)
 avatar_filename: avatar.jpg.jpeg
 bio: ""
