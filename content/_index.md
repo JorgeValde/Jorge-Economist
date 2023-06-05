@@ -5,6 +5,14 @@
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Jorge Valdebenito
+      
+  - block: Research
+    id: Research
+    content:
+      title: Research
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: Jorge Valdebenito
+      
   - block: Experience
     id: Experience
     content:
