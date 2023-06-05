@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Jorge Valdebenito
 type: landing
 
 sections:
