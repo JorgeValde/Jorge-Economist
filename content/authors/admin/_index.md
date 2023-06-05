@@ -1,8 +1,17 @@
 ---
 title: "Jorge Valdebenito "
+
+# Full name (for SEO)
+first_name: Jorge
+last_name: Valdebenito
+
+# Is this the primary user of the site?
+superuser: true
+
 role: PhD in Economics (candidate)
+
 avatar_filename: avatar.jpg.jpeg
-bio: ""
+bio: "My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focus on the effects of Antidumping duties on Brazilian firms and their workers."
 interests:
   - International Trade
   - Economic Development
@@ -33,16 +42,7 @@ education:
     - course: BS in Economics
       institution: "University of Chile "
       year: 2014
-superuser: true
-status:
-  icon: ☕️
-last_name: Valdebenito
+
 highlight_name: true
-first_name: Jorge
 email: javaldeb@syr.edu
 ---
-<!--StartFragment-->
-
-My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focus on the effects of Antidumping duties on Brazilian firms and their workers. 
-
-<!--EndFragment-->
