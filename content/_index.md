@@ -1,4 +1,4 @@
-
+---
   - block: about.biography
     id: about
     content:
