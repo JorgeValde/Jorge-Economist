@@ -1,6 +1,7 @@
  ---
 # Leave the homepage title empty to use the site title
 title: Jorge Valdebenito
+date: 2023-5-6
 type: landing
 
 sections:
