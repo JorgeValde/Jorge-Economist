@@ -33,16 +33,6 @@
           date_end: '2017'
           Responsibilities include:
                 Data gathering and analysis for policy reports
-              
-        - title: Technical Secretary for the Economics and Institutional Relations Committee (CERIN)
-          company: Latin American Steel Association (ALACERO)
-          location: Santiago, Chile
-          date_start: '2015'
-          date_end: '2017'
-          Responsibilities include:
-                Consolidated and presented the Latin American Steel Consumption Outlook (SRO) 
-    design:
-      columns: '2'
       
   - block: CV
     id: CV
