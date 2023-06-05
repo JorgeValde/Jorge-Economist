@@ -11,7 +11,7 @@ superuser: true
 role: PhD in Economics (candidate)
 
 avatar_filename: avatar.jpg.jpeg
-bio: "My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focus on the effects of Antidumping duties on Brazilian firms and their workers."
+bio: "My professional interests include topics in international trade, political economy and economic development of Latin American countries. My current research focuses on the effects of Antidumping duties on Brazilian firms and their workers."
 interests:
   - International Trade
   - Economic Development
