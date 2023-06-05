@@ -10,22 +10,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Jorge Valdebenito
       
-   - block: Research
-    content:
-      title: Research
-      date_format: Jan 2006
-      items:
-        - title: Economist
-          company: Latin American Steel Association (ALACERO)
-          date_start: '2014'
-          date_end: '2017'
-          description: Data gathering and analysis for policy reports
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-   
-      
-      
+
    - block: experience
     content:
       title: Experience
