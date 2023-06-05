@@ -10,6 +10,9 @@ main:
   - name: Research
     url: '#Research'
     weight: 30
+  - name: Experience
+    url: '#Experience'
+    weight: 30
   - name: CV
     url: '#CV'
     weight: 40
