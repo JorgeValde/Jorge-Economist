@@ -1,4 +1,8 @@
 ---
+title: My page
+type: landing
+
+sections:
   - block: about.biography
     id: about
     content:
@@ -46,9 +50,8 @@
       title: Contact
       subtitle:
       text: |-
-       
       # Contact (add or remove contact options as necessary)
       email: javaldeb@syr.edu
     design:
-      columns: '2'
+      columns: '1'
 ---
