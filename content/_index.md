@@ -20,9 +20,7 @@ sections:
           date_end: '2017'
           description: Data gathering and analysis for policy reports
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-   
   - block: CV
     id: CV
     content:
